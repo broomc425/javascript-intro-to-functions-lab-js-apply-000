@@ -11,5 +11,5 @@ function logWhisper(string) {
   console.log(string.toLower())
 }
 function sayHiToGrandma(string) {
-  if 
+  if (string === )
 }
